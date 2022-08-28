@@ -1,4 +1,5 @@
 ## Eaii! Eu sou Jürgen Jacobsen.
+[![Discord Presence](https://lanyard.cnrad.dev/api/292065674338107393)](https://discord.com/users/292065674338107393)
  <div>
   <a href="https://github.com/jurgenjacobsen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jurgenjacobsen&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
