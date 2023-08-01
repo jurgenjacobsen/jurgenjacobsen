@@ -1,4 +1,4 @@
-## Hey buddy! I'm Jürgen, welcome to my profile!
+## Hey buddy! Welcome to my profile!
 <div>
   <a href="https://github.com/jurgenjacobsen">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jurgenjacobsen&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
