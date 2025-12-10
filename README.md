@@ -1,10 +1,11 @@
-## Hey buddy! Welcome to my profile! 
-<div>
-  <a href="https://github.com/jurgenjacobsen">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jurgenjacobsen&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jurgenjacobsen&layout=compact&langs_count=6&theme=dark&hide_border=true&hide=ejs,html"/>
-  </a>
-</div>
+## Welcome! 👋
+### Current Techstack
+[![My Current Techstack](https://skillicons.dev/icons?i=ts,js,nestjs,react,electron,nodejs,tailwind,css,vite&perline=9&theme=dark)](https://skillicons.dev)
 
+### Currently Learning
+[![My Current Techstack](https://skillicons.dev/icons?i=cs,dotnet,go,postgres&perline=9&theme=dark)](https://skillicons.dev)
+
+### Tools I Use
+[![My Tools](https://skillicons.dev/icons?i=vscode,windows,postman,figma,ps,&perline=9&theme=dark)](https://skillicons.dev)
 ---
-<img src="https://wakatime.com/badge/user/010adc07-6382-419f-87bc-0b3f507ee495.svg?style=flat-square"/>
+<img src="https://wakatime.com/badge/user/010adc07-6382-419f-87bc-0b3f507ee495.svg"/>
