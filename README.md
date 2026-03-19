@@ -9,9 +9,3 @@
 
 ### Currently Learning
 [![My Current Techstack](https://skillicons.dev/icons?i=cs,dotnet,go,postgres&perline=9&theme=dark)](https://skillicons.dev)
-
-<div style="display: none;">
-### Tools I Use
-[![My Tools](https://skillicons.dev/icons?i=vscode,windows,postman,figma,ps,&perline=9&theme=dark)](https://skillicons.dev)
-
-</div>
