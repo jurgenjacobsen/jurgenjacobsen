@@ -7,5 +7,5 @@
 ### Current Techstack
 [![My Current Techstack](https://skillicons.dev/icons?i=ts,js,nestjs,react,electron,nodejs,tailwind,css,vite&perline=9&theme=dark)](https://skillicons.dev)
 
-### Currently Learning
-[![My Current Techstack](https://skillicons.dev/icons?i=cs,dotnet,go,postgres&perline=9&theme=dark)](https://skillicons.dev)
+### Now Learning
+[![Now Learning Techstack](https://skillicons.dev/icons?i=cs,dotnet,go,postgres&perline=9&theme=dark)](https://skillicons.dev)
